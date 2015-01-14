@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-01-14 12:41:12
+categories: update
+---
+
+Welcome to my new blog.
+<br>
+<br>
+My name's Seren and I am a second year student, studying Software Engineering.
+I love coding and I being able to make something from scratch and seeing the end product.
+<br>
+<br>
+I plan on blogging about everything from tech to my thoughts on events such as conferences I attend.
