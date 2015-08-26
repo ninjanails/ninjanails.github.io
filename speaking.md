@@ -6,8 +6,10 @@ permalink: /speaking/
 
 ###Coming up
 
-Death to Icon Fonts -
-[Epic FEL](http://www.frontendlondon.co.uk/epic) -
+Death to Icon Fonts
+
+[Epic FEL](http://www.frontendlondon.co.uk/epic)
+
 London, 26th September
 
 ###Past events
