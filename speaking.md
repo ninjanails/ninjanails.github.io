@@ -6,11 +6,11 @@ permalink: /speaking/
 
 ###Coming up
 
+###Past events
+
 **Death to Icon Fonts** <br>
 [Epic FEL](http://www.frontendlondon.co.uk/epic) <br>
 London, 26th September
-
-###Past events
 
 **Death to Icon Fonts (work remix)** <br>
 Incuna <br>
