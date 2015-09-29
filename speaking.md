@@ -11,6 +11,7 @@ permalink: /speaking/
 **Death to Icon Fonts** <br>
 [Epic FEL](http://www.frontendlondon.co.uk/epic) <br>
 London, 26th September
+[Slides](https://speakerdeck.com/ninjanails/death-to-icon-fonts-1)
 
 **Death to Icon Fonts (work remix)** <br>
 Incuna <br>
