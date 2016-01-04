@@ -5,8 +5,6 @@ date:   2016-01-4 12:41:12
 categories: dyslexic-fonts
 ---
 
-#Dyslexic fonts
-
 In my recent talk “Death to Icon Fonts” I spoke about my dyslexia and more specifically how I use dyslexic fonts to help with my reading.
 
 I can find reading tricky and misread some words. To keep track of where I am I often use my finger or the cursor, and sometimes I need to re-read something a few times to make sure I have read it correctly and taken it all in.
