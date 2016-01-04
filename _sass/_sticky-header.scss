@@ -1,0 +1,11 @@
+.site-header {
+  // Class gets applied by javascript when user scrolls to navigation categories
+  // Sticks header to the top of page
+  &.sticky-site-header {
+    position: fixed;
+    top: 0;
+    max-width: 100%;
+    z-index: 1;
+    height: 40px;
+    }
+}

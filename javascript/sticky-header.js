@@ -1,17 +1,18 @@
+$(document).ready(function () {
 
+    'use strict';
 
-    function init() {
-        window.addEventListener('scroll', function (e) {
-            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                shrinkOn = 300,
-                header = document.querySelector("header");
-            if (distanceY > shrinkOn) {
-                classie.add(header,"smaller");
-            } else {
-                if (classie.has(header,"smaller")) {
-                    classie.remove(header,"smaller");
-                }
-            }
-        });
-    }
-    window.onload = init();
+    window.addEventListener('scroll', function (e) {
+
+        var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+        var shrinkOn = 300;
+        var siteHeader = $('#site-header');
+
+        if (distanceY > shrinkOn) {
+            siteHeader.addClass('sticky-site-header');
+        } else {
+            siteHeader.removeClass('sticky-site-header');
+        }
+    });
+
+});
