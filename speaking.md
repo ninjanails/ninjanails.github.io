@@ -6,6 +6,10 @@ permalink: /speaking/
 
 ###Coming up
 
+**Death to Icon Fonts** <br>
+[Code Motion](http://jsoxford.com/2015/Summer-JS/) <br>
+Amsterdam, 11th & 12th May 
+
 ###Past events
 
 ####2015
