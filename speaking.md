@@ -17,7 +17,7 @@ London, 16th May <br>
 [Video](https://vimeo.com/167251633)
 
 **Death to Icon Fonts** <br>
-[Code Motion](http://amsterdam2016.codemotionworld.com/talk-detail/?detail=3262/) <br>
+[Code Motion](http://amsterdam2016.codemotionworld.com/speaker/2070/) <br>
 Amsterdam, 11th & 12th May 
 
 **Death to Icon Fonts** <br>
