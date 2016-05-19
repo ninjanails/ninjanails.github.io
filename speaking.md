@@ -6,14 +6,19 @@ permalink: /speaking/
 
 ###Coming up
 
-**Death to Icon Fonts** <br>
-[Code Motion](http://jsoxford.com/2015/Summer-JS/) <br>
-Amsterdam, 11th & 12th May 
-
-
 ###Past events
 
 ####2015
+
+**web building dyslexic a friendly** <br>
+[London Web Standards](http://londonwebstandards.org/2016/05/lws-16-may-2016-accessibility-month-lwsa11y/) <br>
+London, 16th May <br>
+[Slides](https://speakerdeck.com/ninjanails/web-building-dyslexic-a-friendly)<br>
+[Video](https://vimeo.com/167251633)
+
+**Death to Icon Fonts** <br>
+[Code Motion](http://amsterdam2016.codemotionworld.com/talk-detail/?detail=3262/) <br>
+Amsterdam, 11th & 12th May 
 
 **Death to Icon Fonts** <br>
 [Epic FEL](http://www.frontendlondon.co.uk/epic) <br>
