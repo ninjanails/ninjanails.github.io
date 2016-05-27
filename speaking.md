@@ -19,6 +19,7 @@ London, 16th May <br>
 **Death to Icon Fonts** <br>
 [Code Motion](http://amsterdam2016.codemotionworld.com/speaker/2070/) <br>
 Amsterdam, 11th & 12th May 
+[Slides](https://speakerdeck.com/ninjanails/death-to-icon-fonts-2)
 
 **Death to Icon Fonts** <br>
 [Epic FEL](http://www.frontendlondon.co.uk/epic) <br>
