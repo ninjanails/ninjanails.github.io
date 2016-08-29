@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!--![Photo of Seren]({{site.baseurl}}/img/serenDavies.jpg)-->
-<img style="float: left; padding-right: 10px;" src="{{site.baseurl}}/images/serenDavies.jpg">
+<img style="float: left; padding-right: 10px; border-radius: 100%;" src="{{site.baseurl}}/images/serenDavies.jpg">
 
 Hey, I am Seren. I am studying Software Engineering at Oxford Brookes where I am currently spending my placement year working for Incuna. I am a dyslexic who's passionate about accessibility and also enjoys nail art.
 
