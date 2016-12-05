@@ -27,10 +27,6 @@ London, 26th September <br>
 [Slides](https://speakerdeck.com/ninjanails/death-to-icon-fonts-1)<br>
 [Video](https://www.youtube.com/watch?v=9xXBYcWgCHA)
 
-**Death to Icon Fonts (work remix)** <br>
-Incuna <br>
-Oxford, 4th August 
-
 **Death to Icon Fonts** <br>
 [JS Oxford](http://jsoxford.com/2015/Summer-JS/) <br>
 Oxford, 16th July <br>
