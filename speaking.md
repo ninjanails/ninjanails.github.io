@@ -8,7 +8,7 @@ permalink: /speaking/
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Render](http://2017.render-conf.com//) <br>
-Oxford, 30 & 31 March 
+Oxford, 30th & 31st March 
 
 ### Past events
 
