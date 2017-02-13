@@ -6,9 +6,13 @@ permalink: /speaking/
 
 ### Coming up
 
+**Accessibility is more than just supporting screenreaders** <br>
+[Render](http://2017.render-conf.com//) <br>
+Oxford, 30 & 31 March 
+
 ### Past events
 
-#### 2015
+#### 2016
 
 **web building dyslexic a friendly** <br>
 [London Web Standards](http://londonwebstandards.org/2016/05/lws-16-may-2016-accessibility-month-lwsa11y/) <br>
@@ -20,6 +24,8 @@ London, 16th May <br>
 [Code Motion](http://amsterdam2016.codemotionworld.com/speaker/2070/) <br>
 Amsterdam, 11th & 12th May <br>
 [Slides](https://speakerdeck.com/ninjanails/death-to-icon-fonts-2)
+
+#### 2015
 
 **Death to Icon Fonts** <br>
 [Epic FEL](http://www.frontendlondon.co.uk/epic) <br>
