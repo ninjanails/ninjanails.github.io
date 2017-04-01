@@ -12,7 +12,7 @@ permalink: /speaking/
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Render](http://2017.render-conf.com//) <br>
-Oxford, 30th & 31st March
+Oxford, 30th & 31st March <br>
 [Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders)
 
 #### 2016
