@@ -6,11 +6,14 @@ permalink: /speaking/
 
 ### Coming up
 
+### Past events
+
+#### 2017
+
 **Accessibility is more than just supporting screenreaders** <br>
 [Render](http://2017.render-conf.com//) <br>
-Oxford, 30th & 31st March 
-
-### Past events
+Oxford, 30th & 31st March
+[Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders)
 
 #### 2016
 
