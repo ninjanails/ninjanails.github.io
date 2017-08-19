@@ -6,6 +6,10 @@ permalink: /speaking/
 
 ### Coming up
 
+**Accessibility is more than just supporting screenreaders** <br>
+[State of the Browser 6](https://www.stateofthebrowser.com/) <br>
+London, 16th September 
+
 ### Past events
 
 #### 2017
