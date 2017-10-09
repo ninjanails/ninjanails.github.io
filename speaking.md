@@ -6,13 +6,18 @@ permalink: /speaking/
 
 ### Coming up
 
-**Accessibility is more than just supporting screenreaders** <br>
-[State of the Browser 6](https://www.stateofthebrowser.com/) <br>
-London, 16th September 
+**TBA** <br>
+[Delta V](https://2018.deltavconf.com/) <br>
+London, 10th & 11th May
 
 ### Past events
 
 #### 2017
+
+**Accessibility is more than just supporting screenreaders** <br>
+[State of the Browser 6](https://www.stateofthebrowser.com/) <br>
+[Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders-1) <br>
+London, 16th September 
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Render](http://2017.render-conf.com//) <br>
