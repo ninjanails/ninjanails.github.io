@@ -16,8 +16,8 @@ London, 10th & 11th May
 
 **Accessibility is more than just supporting screenreaders** <br>
 [State of the Browser 6](https://www.stateofthebrowser.com/) <br>
+London, 16th September <br>
 [Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders-1) <br>
-London, 16th September 
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Render](http://2017.render-conf.com//) <br>
