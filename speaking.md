@@ -6,7 +6,7 @@ permalink: /speaking/
 
 ### Coming up
 
-**TBA** <br>
+**This is for everyone** <br>
 [DeltaV](https://2018.deltavconf.com/) <br>
 London, 10th & 11th May
 
