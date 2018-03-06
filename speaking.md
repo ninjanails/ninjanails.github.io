@@ -6,15 +6,18 @@ permalink: /speaking/
 
 ### Coming up
 
-**Accessibility is more than just supporting screenreaders** <br>
-[Oxford Geek Nights](http://oxford.geeknights.net/) <br>
-Oxford, 31st January
-
 **This is for everyone** <br>
 [DeltaV](https://2018.deltavconf.com/) <br>
 London, 10th & 11th May
 
 ### Past events
+
+### 2018
+
+**Accessibility is more than just supporting screenreaders** <br>
+[Oxford Geek Nights](http://oxford.geeknights.net/) <br>
+Oxford, 31st January <br>
+[Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders-2)
 
 #### 2017
 
