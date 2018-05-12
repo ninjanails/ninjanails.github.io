@@ -12,7 +12,7 @@ permalink: /speaking/
 
 **This is for everyone** (with Bruce Lawson) <br>
 [DeltaV](https://2018.deltavconf.com/) <br>
-London, 10th & 11th May
+London, 10th & 11th May <br>
 [Slides](https://speakerdeck.com/brucel/this-is-for-everyone)
 
 **Accessibility is more than just supporting screenreaders** <br>
