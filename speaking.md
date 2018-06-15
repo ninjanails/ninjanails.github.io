@@ -6,14 +6,23 @@ permalink: /speaking/
 
 ### Coming up
 
+**Accessibility is more than just supporting screenreaders** <br>
+[Women In Tech Notts](https://www.technottingham.com/events/wit-july-2018) <br>
+Oxford, 31st January <br>
+
 ### Past events
 
 ### 2018
 
+**Accessibility is more than just supporting screenreaders** <br>
+[Edinburgh University Software Development Community](https://www.ease.ed.ac.uk/cosign.cgi?cosign-eucsCosign-www.events.ed.ac.uk&https://www.events.ed.ac.uk/index.cfm?event=showEventDetails&scheduleId=29903&start=&eventStart=0) <br>
+Oxford, 31st January <br>
+
 **This is for everyone** (with Bruce Lawson) <br>
 [DeltaV](https://2018.deltavconf.com/) <br>
 London, 10th & 11th May <br>
-[Slides](https://speakerdeck.com/brucel/this-is-for-everyone)
+[Slides](https://speakerdeck.com/brucel/this-is-for-everyone) <br>
+[Video](https://www.youtube.com/watch?v=o36RiEbI2IU)
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Oxford Geek Nights](http://oxford.geeknights.net/) <br>
