@@ -6,13 +6,19 @@ permalink: /speaking/
 
 ### Coming up
 
-**This is for everyone** (with Bruce Lawson) <br>
-[Inclusive Design 24](https://inclusivedesign24.org/2018/) <br>
-11th October <br>
-
 ### Past events
 
 ### 2018
+
+**This is for everyone** (with Bruce Lawson) <br>
+[Inclusive Design 24](https://inclusivedesign24.org/2018/) <br>
+11th October <br>
+[Slides](https://speakerdeck.com/brucel/this-is-for-everyone) <br>
+[Video](https://www.youtube.com/watch?v=qsezvPwzkZE&list=PLn7dsvRdQEfEnBxpVztmJ8KCKNJ_P-hR6&index=2)
+
+**Accessibility is more than just supporting screenreaders** <br>
+[Tech Nottingham](https://www.technottingham.com/events/tech-nottingham-oct-2018) <br>
+Oxford, 31st October <br>
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Women In Tech Notts](https://www.technottingham.com/events/wit-july-2018) <br>
