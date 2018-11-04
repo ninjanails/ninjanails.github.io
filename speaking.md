@@ -18,7 +18,8 @@ permalink: /speaking/
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Tech Nottingham](https://www.technottingham.com/events/tech-nottingham-oct-2018) <br>
-Oxford, 31st October <br>
+Oxford, 8th October <br>
+[Slides](https://speakerdeck.com/ninjanails/accessibility-is-more-than-just-supporting-screenreaders-5) <br>
 
 **Accessibility is more than just supporting screenreaders** <br>
 [Women In Tech Notts](https://www.technottingham.com/events/wit-july-2018) <br>
