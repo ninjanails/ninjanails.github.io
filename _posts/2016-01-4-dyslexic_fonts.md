@@ -13,15 +13,15 @@ A dyslexic font face helps a lot with this, I find that it reduces the impact of
 
 At the moment I am using a font called OpenDyslexic. It’s weighted, so the bottom line is ‘heavier’. This allows me to see which line I am on more clearly and I find they do not blur all into one.
 
-<img style="width: 500px; height: 100%;" src="{{site.baseurl}}/images/dyslexic-fonts/alphabetOpenDyslexic.jpg">
+<img style="width: 500px; height: 100%;" alt="" src="{{site.baseurl}}/images/dyslexic-fonts/alphabetOpenDyslexic.jpg">
 
-<img style="width: 500px; height: 100%;" src="{{site.baseurl}}/images/dyslexic-fonts/bp-and-upside-down-bp.jpg">
+<img style="width: 500px; height: 100%;" alt="" src="{{site.baseurl}}/images/dyslexic-fonts/bp-and-upside-down-bp.jpg">
 
 There has been research to suggest that having a [base heavy font can prevent users from experiencing letter flipping.](http://opendyslexic.org/about/) This also benefits users who still experience flipping as they can see the heavy section is in the wrong place. Meaning they can work out what the letter is meant to be.
 
 The heavy base also comes in handy for users who get lost in the lines of text. Because the bottom of each line is heavier than the top, it means it's easier to see where the lines of text start and end.
 
-<img style="width: 500px; height: 100%;" src="{{site.baseurl}}/images/dyslexic-fonts/comparisonOfFonts.png">
+<img style="width: 500px; height: 100%;" alt="" src="{{site.baseurl}}/images/dyslexic-fonts/comparisonOfFonts.png">
 
 With dyslexic fonts each character is more defined which makes it easier to distinguish similar shaped characters from each other.
 Gill Sans is particularly unclear when it comes to L, 1 or I in OpenDyslexic each of these characters are clearly L, 1 and I.
