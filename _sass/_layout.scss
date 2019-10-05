@@ -5,9 +5,14 @@
     border-top: 5px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    position: -webkit-sticky;
+    position: sticky;
+}
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
+@include media-query($on-palm) {
+    .site-header {
+        position: relative;
+    }
 }
 
 .site-title {
