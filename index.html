@@ -18,9 +18,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  {% for post in site.demos %}
-    <a class="demo-link" href="{{ post.url | prepend: site.baseurl }}">Secret demo</a>
-  {% endfor %}
+  <a class="demo-link" href="{{ site.demos.url | prepend: site.baseurl }}">Secret demo</a>
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
